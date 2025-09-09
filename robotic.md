@@ -25,34 +25,11 @@
 
 ## Associate Professors
 
-| Name | Institution | Google Scholar Citations (approx.) | Website | Key Research Areas |
-| --- | --- | --- | --- | --- |
-| Sergey Levine | University of California, Berkeley | ≈190k | [https://people.eecs.berkeley.edu/~svlevine/](https://people.eecs.berkeley.edu/~svlevine/) | Deep reinforcement learning for continuous control; robotic manipulation of complex objects; offline RL and world models for planning |
-| Dhruv Batra | Georgia Institute of Technology | ≈90k | [https://www.cc.gatech.edu/~dbatra/](https://www.cc.gatech.edu/~dbatra/) | Embodied navigation in 3D environments; Habitat simulator for large-scale training; vision-and-language tasks for embodied agents |
-| Anca Dragan | University of California, Berkeley | ≈24k | [https://people.eecs.berkeley.edu/~anca/](https://people.eecs.berkeley.edu/~anca/) | Human–robot collaboration for shared autonomy; interactive robot policies that model humans; inverse reinforcement learning for alignment |
-| Jeannette Bohg | Stanford University | ≈19k | [https://cs.stanford.edu/people/bohg/](https://cs.stanford.edu/people/bohg/) | Grasping and manipulation with tactile sensing; multimodal perception for robotics; online adaptation during deployment |
-| Sonia Chernova | Georgia Institute of Technology | ≈12k | [https://www.soniachernova.com/](https://www.soniachernova.com/) | Interactive robot learning from users; human–robot teamwork in shared tasks; task planning for domestic robots |
-| Hao Su | University of California, San Diego | ≈130k | [https://cseweb.ucsd.edu/~haosu/](https://cseweb.ucsd.edu/~haosu/) | 3D scene understanding with neural representations; embodied perception for navigation; autonomous manipulation in unstructured environments |
-| Byron Boots | University of Washington | ≈8k | [https://homes.cs.washington.edu/~bboots/](https://homes.cs.washington.edu/~bboots/) | Model-based reinforcement learning for robot control; nonparametric dynamics modeling; distributed optimization for multi-robot systems |
-| Dmitry Berenson | University of Michigan | ≈6k | [https://web.eecs.umich.edu/~dmitryb/](https://web.eecs.umich.edu/~dmitryb/) | Motion planning for manipulation in clutter; deformable object handling and grasping; perception-guided robot planning |
-| Mac Schwager | Stanford University | ≈8k | [https://web.stanford.edu/~schwager/](https://web.stanford.edu/~schwager/) | Swarm control for aerial robots; distributed optimization for multi-robot coordination; sensor-based algorithms for environmental monitoring |
-| Stefanie Tellex | Brown University | ≈7k | [https://cs.brown.edu/people/stefie10/](https://cs.brown.edu/people/stefie10/) | Grounding natural language instructions; mobile manipulation with human guidance; crowdsourced learning for household robots |
-| Marco Pavone | Stanford University | ≈17k | [https://web.stanford.edu/~pavone/](https://web.stanford.edu/~pavone/) | Autonomous navigation for spacecraft and vehicles; motion planning under uncertainty; multi-robot coordination for exploration |
-| Angela P. Schoellig | University of Toronto | ≈8k | [https://www.schoellig.name/](https://www.schoellig.name/) | Learning-based control for aerial vehicles; safe reinforcement learning with guarantees; human-drone interaction for cooperative tasks |
-| Mykel J. Kochenderfer | Stanford University | ≈14k | [https://mykel.kochenderfer.com/](https://mykel.kochenderfer.com/) | Decision-making under uncertainty for autonomous systems; POMDP planning for safety-critical robotics; multi-agent collision avoidance algorithms |
-| Javier Civera | University of Zaragoza | ≈7k | [https://webdiis.unizar.es/~jcivera/](https://webdiis.unizar.es/~jcivera/) | SLAM for visual-inertial navigation; robust localization with sparse features; structure-from-motion algorithms for robotics |
-| Luca Carlone | MIT | ≈14k | [https://lucacarlone.mit.edu/](https://lucacarlone.mit.edu/) | Simultaneous localization and mapping with certifiable optimization; multi-robot perception with distributed inference; 3D reconstruction using factor graphs |
 
-## Assistant Professors
-
-| Name | Institution | Google Scholar Citations (approx.) | Website | Key Research Areas |
-| --- | --- | --- | --- | --- |
-| Chelsea Finn | Stanford University | ≈80k | [https://ai.stanford.edu/~cbfinn/](https://ai.stanford.edu/~cbfinn/) | Meta-learning for rapid adaptation; robotic control via reinforcement learning; self-supervised manipulation from raw data |
-| Georgia Gkioxari | University of California, Santa Barbara | ≈57k | [https://gkioxari.github.io/](https://gkioxari.github.io/) | 3D visual representations for scene understanding; embodied reasoning in interactive worlds; egocentric perception for robots |
-| David Fouhey | University of Michigan | ≈5k | [https://cs.nyu.edu/~fouhey/](https://cs.nyu.edu/~fouhey/) | 3D scene understanding from images; action and pose estimation in video; video reasoning for dynamic environments |
 | Yuke Zhu | University of Texas at Austin | ≈30k | [https://yukezhu.me/](https://yukezhu.me/) | Continual robot skill learning across tasks; quadruped locomotion with agile control; vision–language decision making for planning |
 | Dorsa Sadigh | Stanford University | ≈23k | [https://dorsa.fyi/](https://dorsa.fyi/) | Human–robot interaction for shared autonomy; preference-based reward modeling for personalized robots; robot learning with human feedback |
 | Pulkit Agrawal | MIT | ≈16k | [https://people.csail.mit.edu/pulkitag/](https://people.csail.mit.edu/pulkitag/) | Dexterous manipulation with reinforcement learning; quadruped robots navigating rough terrain; RL diffusion models for control |
 | David Held | CMU | ≈13k | [https://www.ri.cmu.edu/ri-faculty/david-held/](https://www.ri.cmu.edu/ri-faculty/david-held/) | Manipulation of deformable objects with vision; active perception for interactive tasks; integrated perception and control for autonomy |
 | Shuran Song | Stanford University | ≈40k | [https://facultydevelopment.stanford.edu/people/shuran-song](https://facultydevelopment.stanford.edu/people/shuran-song) | Diffusion policy imitation learning for robot control; 3D scene understanding for manipulation; grasping and navigation in clutter |
 | Jiajun Wu | Stanford University | ≈40k | [https://cs.stanford.edu/~jiajunwu/](https://cs.stanford.edu/~jiajunwu/) | 3D generative models for shape and scene synthesis; concept learning for structured representations; causal reasoning in physical environments |
+
